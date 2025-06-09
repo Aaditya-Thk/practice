@@ -452,3 +452,4 @@ extra 2026-05-18
 2025-05-29 vacationstart 1
 2025-05-29 vacationstart 2
 2025-05-29 vacationstart 3
+2025-06-09 mixedjune 1
